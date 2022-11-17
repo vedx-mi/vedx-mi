@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedx-mi
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Block hain development
+- 🌱 I’m currently learning Blockchain development
 - 💞️ I’m looking to collaborate on ETH Inndia
 - 📫 How to reach me vpp05051986@gmail.com
 
